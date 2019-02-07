@@ -1,0 +1,15 @@
+# Virtual environment
+env
+
+# SQLite databases
+*.sqlite
+
+.env
+
+stuff
+__pycache__
+.idea
+pip-selfcheck.json
+
+migrations/
+tmp/
